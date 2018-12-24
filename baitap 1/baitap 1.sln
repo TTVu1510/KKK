@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baitap 1", "baitap 1\baitap 1.csproj", "{133F4EFC-31EF-4B58-838F-B815B67FA212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "canbo", "canbo\canbo.csproj", "{3900624F-7BE4-4646-A643-4341C6F03228}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{133F4EFC-31EF-4B58-838F-B815B67FA212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133F4EFC-31EF-4B58-838F-B815B67FA212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133F4EFC-31EF-4B58-838F-B815B67FA212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{133F4EFC-31EF-4B58-838F-B815B67FA212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3900624F-7BE4-4646-A643-4341C6F03228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3900624F-7BE4-4646-A643-4341C6F03228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3900624F-7BE4-4646-A643-4341C6F03228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3900624F-7BE4-4646-A643-4341C6F03228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
